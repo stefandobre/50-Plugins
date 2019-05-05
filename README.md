@@ -1,11 +1,11 @@
-## 50 APEX Plugins You Should Know About
+# 50 APEX Plugins You Should Know About
 
 A list of 50 awesome, open-source Oracle APEX plugins
 
-# Dashboarding
+## Dashboarding
 
-# Navigation
+## Navigation
 
-# Form Items
+## Form Items
 
-# Misc
+## Misc
