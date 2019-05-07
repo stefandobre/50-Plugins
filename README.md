@@ -46,7 +46,7 @@ A list of 50 awesome, open-source Oracle APEX plugins
 ## Misc
 ##### Load JSON Object
 ##### SMART4solutions Query2PDF
-##### Code Mirror Code Editor
+##### CodeMirror
 ##### Spinkit Spinner
 ##### APEX Utils - Execute PL/SQL Code
 ##### Pretius APEX Nested Reports
