@@ -43,21 +43,25 @@ A list of 50 awesome, open-source Oracle APEX plugins
 ##### 32 IG - Manage filter
 ##### 33 ExplorerUK-Clean-IG
 
-## Misc
-##### 34 Load JSON Object
+## Reports
+##### 34 Pretius APEX Nested Reports
 ##### 35 SMART4solutions Query2PDF
-##### 36 CodeMirror
-##### 37 Spinkit Spinner
-##### 38 APEX Utils - Execute PL/SQL Code
-##### 39 Pretius APEX Nested Reports
-##### 40 Guided Tour 1.1
-##### 41 Notification Menu
-##### 42 APEX Flow Chart
-##### 43 APEX D3 Organization Chart
-##### 44 CLOB Region
-##### 45 Sweet Alert Confirm
-##### 46 Animapex
-##### 47 Progress Bar
-##### 48 Open Inline Dialog
-##### 49 Close Inline Dialog
-##### 50 Flexible APEX Dashboard
+
+## Appearance
+##### 36 APEX Utils - Change Spinner
+##### 37 Progress Bar
+##### 38 Sweet Alert Confirm
+##### 39 Spinkit Spinner
+##### 40 Animapex
+
+## Misc
+##### 41 Load JSON Object
+##### 42 CodeMirror
+##### 43 Open Inline Dialog
+##### 44 Close Inline Dialog
+##### 45 APEX Utils - Execute PL/SQL Code
+##### 46 Guided Tour 1.1
+##### 47 Notification Menu
+##### 48 APEX Flow Chart
+##### 49 APEX D3 Organization Chart
+##### 50 CLOB Region
