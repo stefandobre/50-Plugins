@@ -49,16 +49,16 @@ A list of 50 awesome, open-source Oracle APEX plugins
 
 ## Appearance
 ##### 36 APEX Utils - Change Spinner
-##### 37 Progress Bar
-##### 38 Sweet Alert Confirm
-##### 39 Spinkit Spinner
-##### 40 Animapex
+##### 37 APEX Utils - Universal Theme
+##### 38 Progress Bar
+##### 39 Sweet Alert Confirm
+##### 40 Spinkit Spinner
+##### 41 Animapex
 
 ## Misc
-##### 41 Load JSON Object
-##### 42 CodeMirror
-##### 43 Open Inline Dialog
-##### 44 Close Inline Dialog
+##### 42 Load JSON Object
+##### 43 CodeMirror
+##### 44 Open/Close Inline Dialog
 ##### 45 APEX Utils - Execute PL/SQL Code
 ##### 46 Guided Tour 1.1
 ##### 47 Notification Menu
